@@ -5,3 +5,4 @@ gcc main.c -o twixt
 
 Phase-1 for my project included interface , and placing the peg logic ( i.e is the place where you are placing your peg a valid place?).
 I am using the coordinate system in which (x,y) means (column,row).
+I have not implemented modular code logic and will implement it in Phase-2.
